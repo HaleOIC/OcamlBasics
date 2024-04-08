@@ -1,0 +1,16 @@
+# dune exec bin/main.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/hale/.cache/dune/db
+# Workspace root: /home/hale/Cornell_CS3110/textbook/chapter2/2-2/calculator
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/hale/.opam/cs31110-2024sp/bin/ocamlc.opt -config > /tmp/dune_2fc428_output
