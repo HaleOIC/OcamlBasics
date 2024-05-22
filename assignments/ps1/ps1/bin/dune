@@ -1,0 +1,4 @@
+(executable
+ (public_name ps1)
+ (name main)
+ (libraries ps1))
