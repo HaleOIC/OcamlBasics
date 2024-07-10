@@ -1,0 +1,4 @@
+(executable
+ (public_name intro)
+ (name main)
+ (libraries core))
