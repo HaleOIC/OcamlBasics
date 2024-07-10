@@ -1,6 +1,0 @@
-# dune init proj func
-# OCAMLPARAM: unset
-# Shared cache: disabled
-# Shared cache location: /home/hale/.cache/dune/db
-# Workspace root: /home/hale/OcamlBasics/RealWorldOcaml/I.Concept/func
-# Auto-detected concurrency: 16

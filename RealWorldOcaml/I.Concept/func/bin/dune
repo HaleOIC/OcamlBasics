@@ -1,4 +1,4 @@
 (executable
  (public_name func)
  (name main)
- (libraries func))
+ (libraries core))
